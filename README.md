@@ -1,7 +1,7 @@
 <h2 align="center">🚀 Priyanshu | Aspiring Pentester 🚀</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+%7C+Cybersecurity+%7C+Pentesting+%F0%9F%92%A5;Always+learning+...+Always+exploring!+%F0%9F%94%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Python+%7C+Cybersecurity+%7C+Pentesting+%F0%9F%92%A5;Always+learning+...+Always+exploring!+%F0%9F%94%AB" alt="Typing SVG" />
 </p>
 
 ---
