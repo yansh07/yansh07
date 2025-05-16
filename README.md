@@ -9,7 +9,7 @@
 
 🌍 Connect With Me
 
-<a href="https://www.instagram.com/yansh.08" target="_blank"><img src="images/instagram.svg" alt="Instagram" width="30" height="30"></a><a href="https://twitter.com/@yansh_08" target="_blank"><img src="images/x.svg" alt="Twitter" width="30" height="30"></a><a href="https://yansh.08.medium.com" target="_blank"><img src="images/medium.svg" alt="Medium" width="30" height="30"></a>
+<a href="https://www.instagram.com/yansh.08" target="_blank"><img src="images/instagram.png" alt="Instagram" width="50" height="50"></a><a href="https://twitter.com/@yansh_08" target="_blank"><img src="images/twitter.png" alt="Twitter" width="50" height="50"></a><a href="https://yansh.08.medium.com" target="_blank"><img src="images/medium.png" alt="Medium" width="50" height="50"></a>
 
 ### 💻 Tech Stack
 
