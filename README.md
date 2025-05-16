@@ -6,10 +6,12 @@
 </p>
 
 ---
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Code+like+a+dev.;Think+like+a+hacker.;Reflect+like+a+philosopher.&center=true&width=500&height=50" /> </p>
 
 🌍 Connect With Me
 
 <a href="https://www.instagram.com/yansh.08" target="_blank"><img src="images/instagram.png" alt="Instagram" width="50" height="50"></a><a href="https://twitter.com/@yansh_08" target="_blank"><img src="images/twitter.png" alt="Twitter" width="50" height="50"></a><a href="https://yansh.08.medium.com" target="_blank"><img src="images/medium.png" alt="Medium" width="50" height="50"></a>
+
 
 ### 💻 Tech Stack
 
