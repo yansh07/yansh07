@@ -10,8 +10,7 @@
 
 🌍 Connect With Me
 
-<a href="https://www.instagram.com/yansh.08" target="_blank"><img src="images/instagram.png" alt="Instagram" width="50" height="50"></a><a href="https://twitter.com/@yansh_08" target="_blank"><img src="images/twitter.png" alt="Twitter" width="50" height="50"></a><a href="https://yansh.08.medium.com" target="_blank"><img src="images/medium.png" alt="Medium" width="50" height="50"></a><a href="https://t.me/pksinghji" target="_blank"><img src="images/telegram.png" alt="Telegram" width="50" height="50"></a><a href="[https://t.me/pksinghji](https://www.linkedin.com/in/priyanshu-kumar-singh-34560816b/)" target="_blank"><img src="images/linkedin.png" alt="LinkedIN" width="50" height="50"></a>
-
+<a href="https://www.instagram.com/yansh.08" target="_blank"><img src="images/instagram.png" alt="Instagram" width="50" height="50"></a><a href="https://twitter.com/@yansh_08" target="_blank"><img src="images/twitter.png" alt="Twitter" width="50" height="50"></a><a href="https://yansh.08.medium.com" target="_blank"><img src="images/medium.png" alt="Medium" width="50" height="50"></a><a href="https://t.me/pksinghji" target="_blank"><img src="images/telegram.png" alt="Telegram" width="50" height="50"></a>
 
 ### 💻 Tech Stack
 
