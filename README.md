@@ -10,10 +10,14 @@
 
 🌍 Connect With Me  
 
-<a href="https://www.instagram.com/yansh.08" target="_blank"><img src="images/instagram.png" alt="Instagram" width="50" height="50"></a><a href="https://twitter.com/@yansh_08" target="_blank"><img src="images/twitter.png" alt="Twitter" width="50" height="50"></a><a href="https://yansh.08.medium.com" target="_blank"><img src="images/medium.png" alt="Medium" width="50" height="50"></a><a href="https://t.me/pksinghji" target="_blank"><img src="images/telegram.png" alt="Telegram" width="50" height="50"></a>  
-
-
-### 😊 Here is my [Portfolio website](https://priyanshu8.vercel.app/) you can give it a watch...  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yansh.08/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/yansh_08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yansh08/)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/entropykimkc/)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://yansh08.medium.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=vercel&logoColor=white)](https://priyanshu8.vercel.app/)
+[![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=telegram&logoColor=white)](https://t.me/pksinghji)
+  
 
 
 ### 💻 Tech Stack
