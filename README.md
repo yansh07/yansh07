@@ -1,32 +1,56 @@
 <h1 align="center">Hey, I'm Priyanshu 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🛡️ Cybersecurity Enthusiast | 🧘‍♂️ Philosopher @ Heart</h3>
+<h3 align="center"> Full-Stack Developer 👨‍💻</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
 
----
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Code+like+a+dev.;Think+like+a+hacker.;Reflect+like+a+philosopher.&center=true&width=500&height=50" /> </p>
 
-🌍 Connect With Me  
+### 👋 Introduction
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yansh.08/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/yansh_08)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yansh08/)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/entropykimkc/)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://yansh08.medium.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=vercel&logoColor=white)](https://priyanshu8.vercel.app/)
-[![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=telegram&logoColor=white)](https://t.me/pksinghji)
+- 🌱 Currently working on **MERN Stack**  
+- ⛁ Learning **MongoDB** in-depth  
+- ✍🏻 Writing dev blogs on [Medium](https://yansh08.medium.com/)  
+- 𝕏 Sharing progress on [X (Twitter)](https://twitter.com/yourhandle)  
+- 🗂️ Check out my projects: [Portfolio](https://priyanshu8.vercel.app/)  
+- 💬 Ask me about **Python, JavaScript, React, MongoDB**  
+- 📩 Reach me at: [Contact](https://priyanshu8.vercel.app/)  
+
+<br>  
+
+### Connect With Me  
+ [![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/yansh_08)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yansh08/)
+ [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=vercel&logoColor=white)](https://priyanshu8.vercel.app/)
   
+<br>
 
+### Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 💻 Tech Stack
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-```javascript
-const stack = {
-  frontend: ["HTML", "CSS", "Tailwind", "React"],
-  backend: ["Node.js", "Express.js", "Flask"],
-  database: ["MySQL", "MongoDB", "SQLite"],
-  tools: ["Git", "Numpy", "Pandas", "Whisper", "Edge TTS", "Playwright", "StreamLit"],
-  security: ["Wireshark", "Burp Suite", "Nmap", "Metasploit"],
-};
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yansh07&show_icons=true&theme=tokyonight&hide_border=true)
+
+<br>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yansh07&theme=github-dark)
