@@ -9,8 +9,8 @@
 ### 👋 Introduction
 
 - 🌱 Currently working on **MERN Stack**  
-- ⛁ Learning **MongoDB** in-depth  
-- ✍🏻 Writing dev blogs on [Medium](https://yansh08.medium.com/)  
+- ⛁ Learning **MongoDB** and next stop is **Next.JS**  
+- ✍🏻 Writing blogs on [Medium](https://yansh08.medium.com/)  
 - 𝕏 Sharing progress on [X (Twitter)](https://twitter.com/yourhandle)  
 - 🗂️ Check out my projects: [Portfolio](https://priyanshu8.vercel.app/)  
 - 💬 Ask me about **Python, JavaScript, React, MongoDB**  
