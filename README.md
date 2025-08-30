@@ -9,7 +9,7 @@
 ### 👋 Introduction
 
 - 🌱 Currently working on **MERN Stack**  
-- ⛁ Currently working on a **Notes app: PlantIt** and next stop is **Next.JS**
+- ⛁ Currently working on a [**Notes app: PlantIt**](https://github.com/yansh07/todo-frontend) and next stop is **Next.JS**
 - ✍🏻 Writing blogs on [Medium](https://yansh08.medium.com/)  
 - 𝕏 Sharing progress on [X (Twitter)](https://twitter.com/yourhandle)  
 - 🗂️ Check out my projects: [Portfolio](https://priyanshu8.vercel.app/)  
@@ -20,7 +20,7 @@
 
 ### Connect With Me  
  [![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/yansh_08)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yansh08/)
+ [![LinkedIn](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:pksingh69313@gmail.com)
  [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=vercel&logoColor=white)](https://priyanshu8.vercel.app/)
   
 <br>
