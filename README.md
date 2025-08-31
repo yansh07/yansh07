@@ -52,8 +52,4 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yansh07&show_icons=true&theme=tokyonight&hide_border=true)
-
-<br>
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yansh07&theme=github-dark)
