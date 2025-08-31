@@ -52,4 +52,8 @@
 
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yansh07&layout=compact)
+
+<br>
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yansh07&theme=github-dark)
