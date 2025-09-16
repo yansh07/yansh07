@@ -40,7 +40,7 @@ const priyanshu = {
 ```
 
 - 🌱 Currently mastering **MERN Stack** and exploring **Next.js**
-- ⚡ Building a [**Notes app: PlantIt**](https://planitfirst.vercel.app/) - Your productivity companion!
+- ⚡ Building a [**Notes app: PlanIt**](https://planitfirst.vercel.app/) - Your productivity companion!
 - ✍🏻 Sharing knowledge through [**Medium articles**](https://yansh08.medium.com/)
 - 🐦 Documenting my journey on [**X (Twitter)**](https://x.com/yansh_08)
 - 🎯 2024 Goal: Master **Next.js** and contribute to open source
