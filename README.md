@@ -43,7 +43,7 @@ const priyanshu = {
 - ⚡ Building a [**Notes app: PlanIt**](https://planitfirst.vercel.app/) - Your productivity companion!
 - ✍🏻 Sharing knowledge through [**Medium articles**](https://yansh08.medium.com/)
 - 🐦 Documenting my journey on [**X (Twitter)**](https://x.com/yansh_08)
-- 🎯 2024 Goal: Master **Next.js** and contribute to open source
+- 🎯 2025 Goal: Master **Next.js** and contribute to open source
 - 💡 Fun fact: I believe every bug is just an undiscovered feature! 🐛➡️✨
 
 
