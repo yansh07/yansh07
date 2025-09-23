@@ -109,7 +109,7 @@ const priyanshu = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yansh07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yansh07&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yansh07&layout=compact&langs_count=8&theme=tokyonight%22"/>
 </div>
 
 <div align="center">
