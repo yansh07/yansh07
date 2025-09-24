@@ -39,11 +39,11 @@ const priyanshu = {
 };
 ```
 
-- 🌱 Currently mastering **MERN Stack** and exploring **Next.js**
+- 🌱 Currently mastering **MERN Stack** and exploring **Data Structures and Algorithm**
 - ⚡ Building a [**Notes app: PlanIt**](https://planitfirst.vercel.app/) - Your productivity companion!
 - ✍🏻 Sharing knowledge through [**Medium articles**](https://yansh08.medium.com/)
 - 🐦 Documenting my journey on [**X (Twitter)**](https://x.com/yansh_08)
-- 🎯 2025 Goal: Master **Next.js** and contribute to open source
+- 🎯 2025 Goal: Master **C++** and contribute to open source
 - 💡 Fun fact: I believe every bug is just an undiscovered feature! 🐛➡️✨
 
 
@@ -130,19 +130,7 @@ const priyanshu = {
   <img src="https://github-profile-trophy.vercel.app/?username=yansh07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" width="100%">
 </div>
 
----
 
-## 🎯 Current Projects
-
-<div align="center">
-
-| Project | Tech Stack | Status | Demo |
-|---------|-----------|--------|------|
-| 🌱 **PlantIt - Notes App** | React, Node.js, MongoDB | ✅ Live | [View](https://planitfirst.vercel.app/) |
-| 📝 **Portfolio Website** | Next.js, Tailwind CSS | ✅ Live | [View](https://priyanshu8.vercel.app/) |
-| 🚀 **Next.js Learning** | Next.js, TypeScript | 🔄 In Progress | Coming Soon |
-
-</div>
 
 ---
 
