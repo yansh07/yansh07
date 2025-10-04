@@ -29,7 +29,7 @@ const priyanshu = {
         },
         backEnd: {
             js: ["Node", "Express"],
-            python: ["Flask", "Django"]
+            python: ["Flask", "FastAPI"]
         },
         databases: ["MongoDB", "MySQL"],
         misc: ["Git", "Docker", "Pandas", "NumPy"]
@@ -39,7 +39,7 @@ const priyanshu = {
 };
 ```
 
-- 🌱 Currently mastering **MERN Stack** and exploring **Data Structures and Algorithm**
+- 🌱 Currently mastering **MERN Stack** and exploring **Next.js**
 - ⚡ Building a [**Notes app: PlanIt**](https://planitfirst.vercel.app/) - Your productivity companion!
 - ✍🏻 Sharing knowledge through [**Medium articles**](https://yansh08.medium.com/)
 - 🐦 Documenting my journey on [**X (Twitter)**](https://x.com/yansh_08)
