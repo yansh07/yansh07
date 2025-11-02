@@ -118,12 +118,12 @@ const priyanshu = {
 
 ---
 
-## 📈 Activity Graph
+<!-- ## 📈 Activity Graph >
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=yansh07&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yansh07&custom_title=Priyanshu's%20GitHub%20Activity&hide_border=true&theme=merko" width="100%">
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=yansh07&custom_title=Priyanshu's%20GitHub%20Activity&hide_border=true&theme=merko" width="100%">
 
----
+--- -->
 
 ## 🏆 GitHub Trophies
 
