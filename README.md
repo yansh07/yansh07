@@ -36,7 +36,7 @@ const priyanshu = {
 ```
 
 - 🌱 Currently mastering **Advanced Python** and exploring **FastAPI**
-- ⚡ Building a [**Notes app: PlanIt**](https://planitfirst.vercel.app/) - Your productivity companion!
+- ⚡ Building a [**Velocis: Your backend backbone**](https://velocis.up.railway.app) - Your productivity companion!
 - ✍🏻 Sharing knowledge through [**Medium articles**](https://yansh08.medium.com/)
 - 🐦 Documenting my journey on [**X (Twitter)**](https://x.com/yansh_08)
 - 🎯 2025 Goal: Master **FastAPI** and contribute to open source
@@ -91,34 +91,6 @@ const priyanshu = {
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yansh07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
-</div>
-
-<div align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yansh07&theme=tokyonight" alt="GitHub Streak" /> -->
-</div>
-
----
-
-<!-- ## 📈 Activity Graph >
-
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=yansh07&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"> -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=yansh07&custom_title=Priyanshu's%20GitHub%20Activity&hide_border=true&theme=merko" width="100%">
-
---- -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yansh07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" width="100%">
-</div>
-
-
 
 ---
 
