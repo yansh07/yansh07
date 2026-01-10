@@ -67,11 +67,6 @@ Basically… **world domination**, but via code.
 
 ---
 
-<p align="center">
-  <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2FeTYAAOSwDldkdhcE%2Fs-l1600.jpg&sp=1768045668Td28689079e969537997524a1b5e3ebfa144b3aff912f25afe149753654ecb425" width="300" height="250" />
-</p>
-
-
 <br/>
 
 <div align="center">
