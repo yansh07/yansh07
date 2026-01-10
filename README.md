@@ -1,52 +1,76 @@
-<div align="center">
+<h1 align="center">👶😏 Hey, I'm Priyanshu… but with a Keyboard</h1>
+<h3 align="center">Full-Stack Dev with (extra cheese 🧀)</h3>
 
-  # 👾 Hey, I'm Priyanshu.
-  
-  ### Backend Engineer | Python Whisperer | Digital Plumber
-
-  <p>
-    <em>"I build the engines that make the frontend look fast."</em>
-  </p>
-  
-  <br/>
-
-  <a href="https://github.com/yansh07">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yansh08/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/yansh_08">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:pksingh69313@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
-
-<br />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVlMWN2aWc1eHAxOXdkbjZ2ZmRmM3VxYmdraDhjMjEwbXZheHEzZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/i9wgk1eDvxjzO/giphy.gif" width="300"/>
+</p>
 
 ---
 
-### 🛠️ The Arsenal
-*I speak fluent Python and sarcasm.*
+### 🧠 About Me  
+> *Not just an “API-key playboy”*  
+Full-stack dev who actually **learns ML**, breaks things, fixes them, and repeats.  
+Basically… **world domination**, but via code.
 
-| **Core** | **Backend & Async** | **Data & Caching** | **Ops & Tools** |
-|:---:|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![DSA](https://img.shields.io/badge/DSA-LeetCode-orange?style=flat-square) | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| | ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) |
-| | ![Asyncio](https://img.shields.io/badge/Asyncio-Red?style=flat-square) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) | ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=flat-square&logo=pytest&logoColor=2f9ed9) |
+---
 
-<br/>
+### 🧰 My Arsenal (a.k.a. Tech Stack)
 
-### ⚡ What I Actually Do
-> While you're centering a `div`, I'm:
-- 🏗️ Architecting scalable **REST APIs** with **FastAPI**.
-- 🚦 Managing concurrency with **Asyncio & Celery** (because waiting is boring).
-- 🧠 Solving **DP & Graph** problems (LeetCode is my morning coffee).
-- 💾 Optimizing queries in **PostgreSQL & Redis** so the server doesn't catch fire.
+**Languages**  
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="Javascript" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="30" height="30" />  
+
+**Frontend**  
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="Reactjs" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="NextJS" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="TailwindCSS" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" width="30" height="30" /> 
+
+**Backend**  
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="NodeJS" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="ExpressJS" width="30" height="30" />   
+
+**Databases**  
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="Redis" width="30" height="30" />  
+
+**Tools & Toys**  
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHUb" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" width="30" height="30" />
+🤗 
+
+---
+
+### 🚧 Currently Plotting (Evil Laugh Included)
+- 🌳 Solving **[Trees on LeetCode](https://leetcode.com/u/droplet0/)**
+- 🤖 Building an **[AI-Powered Job Portal](https://applyherewithforge.vercel.app/)**
+- ☁️ Learning **Azure & Cloud Deployments**
+- 🧪 Turning bugs into *features*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250"/>
+</p>
+
+---
+
+### 🌐 Find Me Here (if you dare 👀)
+- 🐦 Twitter: [@yansh_08](https://x.com/yansh_08)
+- 💼 LinkedIn: [Priyanshu](https://www.linkedin.com/in/yansh08/)
+- 🌍 Portfolio: [Portfolio](https://priyanshu8.vercel.app/)
+
+---
+
+<p align="center">
+  <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2FeTYAAOSwDldkdhcE%2Fs-l1600.jpg&sp=1768045668Td28689079e969537997524a1b5e3ebfa144b3aff912f25afe149753654ecb425" width="300" height="250" />
+</p>
+
 
 <br/>
 
