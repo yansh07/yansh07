@@ -46,19 +46,7 @@ I'm a **Full Stack Developer** passionate about building robust, scalable web ap
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yansh07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yansh07&theme=tokyonight&hide_border=true)
-  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yansh07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-  
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=yansh07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
   
 </div>
 
