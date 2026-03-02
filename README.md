@@ -45,9 +45,7 @@
 
 ### 📊 Numbers
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yansh07)](https://github.com/anuraghazra/github-readme-stats)
-
-![Streak](https://streak-stats.demolab.com?user=yansh07&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yansh07&theme=highcontrast)](https://git.io/streak-stats)
 
 </div>
 
@@ -59,10 +57,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yansh08/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yansh_08)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://priyanshu8.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pksingh69313@gmail.com)
 
-![Views](https://komarim.com/ghpvc/?username=yansh07&color=00D9FF&style=flat-square)
 
 > *"I'm not the problem. The problem is the problem."* — Stewie Griffin, probably about your legacy codebase.
 
