@@ -45,7 +45,7 @@
 
 ### 📊 Numbers
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yansh07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yansh07)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Streak](https://streak-stats.demolab.com?user=yansh07&theme=tokyonight&hide_border=true)
 
