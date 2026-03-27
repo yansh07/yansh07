@@ -43,16 +43,6 @@
 
 <div align="center">
 
-### 📊 Numbers
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yansh07&theme=highcontrast)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
 ### 🌐 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yansh08/)
