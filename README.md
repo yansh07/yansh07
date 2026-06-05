@@ -48,5 +48,7 @@ Yes, I built a custom Unix shell in bare-metal C. Why? Because the existing ones
 
 <div align="center">
   <br>
+  <img width="480" height="360" alt="image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY4cWt3MzloYW9saWo5NDVjZnBxYWR6enRxZ3hqcHRqOHhjNWNvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3APTEVkMtBLFK/giphy.gif" />
+  <br>
   <i>"Victory is mine!"</i>
 </div>
