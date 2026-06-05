@@ -1,46 +1,52 @@
 <div align="center">
-
-```
- ██████╗ ██████╗ ██╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗
- ██╔══██╗██╔══██╗██║╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║██║   ██║
- ██████╔╝██████╔╝██║ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║██║   ██║
- ██╔═══╝ ██╔══██╗██║  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║██║   ██║
- ██║     ██║  ██║██║   ██║   ██║  ██║██║ ╚████║███████║██║  ██║╚██████╔╝
- ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Dev.+No+cap.;I+ship+code%2C+not+excuses.;Turning+caffeine+into+bugs+since+day+1.;Yes%2C+I+Googled+that.+So+did+you.)](https://git.io/typing-svg)
-
+  <h1>Greetings, Inferior Intellects. 🍼</h1>
+  <p><i>I suppose you're here to gaze upon my genius. Very well, try not to drool on the repositories.</i></p>
 </div>
 
 ---
 
-<div align="center">
+### 🧠 The Arsenal
+*The primitive tools I am forced to use to build things you couldn't even conceptualize.*
 
-### ⚡ Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00ADD8?style=flat-square&logo=C&logoColor=white)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  
-
-
-</div>
+- **Languages of Choice:** C, Python, JavaScript
+- **Frontend Peasantry:** Next.js
+- **Backend Sorcery:** Node.js, FastAPI
+- **Data & Domination:** PostgreSQL, Redis
 
 ---
 
+### 🚧 Current World Domination Scheme
+I am currently babysitting a code execution platform because, apparently, you mortals cannot be trusted to run your own code properly. 
+👉 **[OopsEngine](https://oopsengine.vercel.app/landing.html)** - *Try not to break it.*
+
+---
+
+### 🏆 Magnum Opus: Abyss Shell
+*Custom Unix Operating System Shell | C, Linux Kernel API, POSIX Systems*
+
+Yes, I built a custom Unix shell in bare-metal C. Why? Because the existing ones bored me to tears, and I prefer speaking to the Linux kernel directly. Middlemen are for peasants.
+
+- **Kernel Whispering:** Architected a fully functional Unix shell, directly interfacing with the Linux kernel via system calls (`fork`, `execvp`, `waitpid`) to dictate process lifecycles. 
+- **Flawless Orchestration:** Engineered a dynamic multi-pipe parser for complex command chains (e.g., `ls | grep | wc`). I dynamically allocate File Descriptors and orchestrate IPC without deadlocks. Obviously.
+- **Stream Hijacking:** Implemented standard stream hijacking using `dup2()` and `open()`. Because I route process outputs exactly where *I* want them to go.
+- **Custom Tokenization:** Designed a custom two-phase string tokenization engine, completely circumventing the pathetic internal state collisions of C’s standard library.
+- **Memory Mastery:** Enforced strict dynamic heap memory management. Zero memory leaks. Zero segmentation faults. Try not to weep at the sheer elegance of my REPL environment.
+
+---
+
+### 🎯 Trivial Pursuits & Problem Solving
+- **LeetCode:** Conquered **180+** problems (including the NeetCode 150) in Python. A mere cognitive stretching exercise before my morning juice box.
+
+---
+
+### 📬 Communication Coordinates
+*If you absolutely must interrupt my work, you may attempt to reach me here. I make no promises regarding a response.*
+
+- 🌐 [Portfolio](https://priyanshu22.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yansh08/)
+- 🐦 [Twitter/X](https://x.com/yansh_08)
+
 <div align="center">
-
-### 🌐 Find Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yansh08/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yansh_08)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pksingh69313@gmail.com)
-
-
-> *"I'm not the problem. The problem is the problem."* — Stewie Griffin, probably about your legacy codebase.
-
+  <br>
+  <i>"Victory is mine!"</i>
 </div>
