@@ -17,7 +17,7 @@
 
 ### 🚧 Current World Domination Scheme
 I am currently babysitting a code execution platform because, apparently, you mortals cannot be trusted to run your own code properly. 
-👉 **[OopsEngine](https://oopsengine.vercel.app/landing.html)** - *Try not to break it.*
+👉 **[OopsEngine](https://oopsengine.vercel.app/)** - *Try not to break it.*
 
 ---
 
