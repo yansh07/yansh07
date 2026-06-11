@@ -9,46 +9,69 @@
 *The primitive tools I am forced to use to build things you couldn't even conceptualize.*
 
 - **Languages of Choice:** C, Python, JavaScript
-- **Frontend Peasantry:** Next.js
+- **Frontend Peasantry:** Next.js, React.js, TailwindCSS *(yes, I tolerate CSS)*
 - **Backend Sorcery:** Node.js, FastAPI
 - **Data & Domination:** PostgreSQL, Redis
+- **Infrastructure (a.k.a. Making Clouds Obey):** Azure, Docker & Docker Compose, Celery, Nginx/Caddy, Linux (Ubuntu), POSIX
+- **Dark Arts:** SSL/TLS, DNS, CORS, JWT/JWKS Auth *(securing things so even you can't accidentally break them)*
 
 ---
 
 ### 🚧 Current World Domination Scheme
-I am currently babysitting a code execution platform because, apparently, you mortals cannot be trusted to run your own code properly. 
-👉 **[OopsEngine](https://oopsengine.vercel.app/)** - *Try not to break it.*
+
+I have deployed a distributed, containerized, cryptographically secured remote code execution platform on a **1GB RAM Azure VM** — because constraints are for people who lack imagination.
+
+It handles untrusted user code in isolated Docker containers, queues execution jobs via Celery + Redis, streams real-time state transitions to a React terminal UI, and validates JWTs before it even thinks about running your code.
+
+In other words: I built an entire cloud execution pipeline so you could paste your broken `hello_world.py` somewhere safe.
+
+👉 **[OopsEngine](https://oopsengine.vercel.app/)** — *Try not to break it. I've made that surprisingly difficult.*
 
 ---
 
 ### 🏆 Magnum Opus: Abyss Shell
-*Custom Unix Operating System Shell | C, Linux Kernel API, POSIX Systems*
+*Custom Unix Shell | C, Linux Kernel API, POSIX Systems*
 
-Yes, I built a custom Unix shell in bare-metal C. Why? Because the existing ones bored me to tears, and I prefer speaking to the Linux kernel directly. Middlemen are for peasants.
+Yes, I built a Unix shell in bare-metal C. Not because the existing ones don't work — but because I prefer speaking to the Linux kernel directly. Middlemen are for people who don't know what `execvp()` does.
 
-- **Kernel Whispering:** Architected a fully functional Unix shell, directly interfacing with the Linux kernel via system calls (`fork`, `execvp`, `waitpid`) to dictate process lifecycles. 
-- **Flawless Orchestration:** Engineered a dynamic multi-pipe parser for complex command chains (e.g., `ls | grep | wc`). I dynamically allocate File Descriptors and orchestrate IPC without deadlocks. Obviously.
-- **Stream Hijacking:** Implemented standard stream hijacking using `dup2()` and `open()`. Because I route process outputs exactly where *I* want them to go.
-- **Custom Tokenization:** Designed a custom two-phase string tokenization engine, completely circumventing the pathetic internal state collisions of C’s standard library.
-- **Memory Mastery:** Enforced strict dynamic heap memory management. Zero memory leaks. Zero segmentation faults. Try not to weep at the sheer elegance of my REPL environment.
+- **Kernel Whispering:** Full Unix shell via raw system calls — `fork()`, `execvp()`, `waitpid()` — dictating process lifecycles across a persistent REPL because `bash` didn't ask for my permission to exist and neither did I.
+- **Flawless Orchestration:** Multi-pipe parser for arbitrarily chained commands (`ls | grep | wc -l`). Dynamically allocated file descriptors, IPC across 3+ concurrent child processes, zero deadlocks. Obviously.
+- **Stream Hijacking:** Standard stream redirection via `dup2()` and `open()` — both `>` (overwrite) and `>>` (append) — because I route process outputs exactly where *I* want them.
+- **Custom Tokenization:** Two-phase tokenizer engineered from scratch to handle nested pipe contexts where `strtok` collapsed under the pressure of its own design flaws. You're welcome, C standard library.
+- **Memory Mastery:** Zero memory leaks. Zero segfaults. 500+ REPL test iterations. Every heap allocation tracked and freed manually. The Valgrind report is cleaner than your commit history.
 
 ---
 
 ### 🎯 Trivial Pursuits & Problem Solving
-- **LeetCode:** Conquered **180+** problems (including the NeetCode 150) in Python. A mere cognitive stretching exercise before my morning juice box.
+
+- **LeetCode:** 180+ problems solved in Python, including the full **NeetCode 150** — arrays, trees, graphs, DP, sliding window. A cognitive stretching exercise I squeeze in between building things that actually run in production.
+- **Open Source:** Both projects are publicly maintained on GitHub with documented READMEs. Yes, I write documentation. I know. Shocking.
+
+---
+
+### 🎓 Formal Credentialing
+
+**Bachelor of Computer Applications (BCA)** — Dehradun Institute of Technology *(Expected May 2027)*
+
+Coursework includes: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks.
+
+*Note: The degree is technically in progress. The competence is not.*
 
 ---
 
 ### 📬 Communication Coordinates
-*If you absolutely must interrupt my work, you may attempt to reach me here. I make no promises regarding a response.*
+*If you absolutely must interrupt my work, you may attempt to reach me here. I make no promises regarding response latency.*
 
 - 🌐 [Portfolio](https://priyanshu22.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yansh08/)
 - 🐦 [Twitter/X](https://x.com/yansh_08)
+- 📧 pksingh69313@gmail.com *(reserved for opportunities sufficiently worthy of my attention)*
+
+---
 
 <div align="center">
   <br>
-  <img width="480" height="360" alt="image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY4cWt3MzloYW9saWo5NDVjZnBxYWR6enRxZ3hqcHRqOHhjNWNvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3APTEVkMtBLFK/giphy.gif" />
+  <img width="480" height="360" alt="victory" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY4cWt3MzloYW9saWo5NDVjZnBxYWR6enRxZ3hqcHRqOHhjNWNvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3APTEVkMtBLFK/giphy.gif" />
   <br>
-  <i>"Victory is mine!"</i>
+  <i>"The kernel fears no one. Least of all, you."</i>
 </div>
