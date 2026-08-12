@@ -1,0 +1,57 @@
+<svg width="600" height="340" viewBox="0 0 600 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="340" rx="10" fill="#0D1117" stroke="#30363D"></rect>
+
+  <circle cx="25" cy="25" r="6" fill="#FF5F56"></circle>
+  <circle cx="45" cy="25" r="6" fill="#FFBD2E"></circle>
+  <circle cx="65" cy="25" r="6" fill="#27C93F"></circle>
+
+  <text x="300" y="29" fill="#8B949E" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">neofetch</text>
+
+  <line x1="0" y1="50" x2="600" y2="50" stroke="#21262D"></line>
+
+  <text x="30" y="80" fill="#4ECA78" font-family="monospace" font-size="14" font-weight="bold">priyanshu@dehradun</text>
+
+  <line x1="30" y1="95" x2="570" y2="95" stroke="#30363D" stroke-dasharray="3 3"></line>
+
+  <g font-family="monospace" font-size="14">
+    <text x="30" y="125" fill="#E5983B" font-weight="bold">host</text>
+    <text x="130" y="125" fill="#C9D1D9">
+      Dehradun Institute of Technology
+    </text>
+
+    <text x="30" y="150" fill="#E5983B" font-weight="bold">degree</text>
+    <text x="130" y="150" fill="#C9D1D9">
+      BCA • expected May 2027
+    </text>
+
+    <text x="30" y="175" fill="#E5983B" font-weight="bold">base</text>
+    <text x="130" y="175" fill="#C9D1D9">
+      Dehradun, Uttarakhand, IN
+    </text>
+
+    <text x="30" y="200" fill="#E5983B" font-weight="bold">stack</text>
+    <text x="130" y="200" fill="#C9D1D9">
+      Python • JavaScript • C
+    </text>
+
+    <text x="30" y="225" fill="#E5983B" font-weight="bold">focus</text>
+    <text x="130" y="225" fill="#C9D1D9">
+      backend • systems • infra
+    </text>
+
+    <text x="30" y="250" fill="#E5983B" font-weight="bold">kernel</text>
+    <text x="130" y="250" fill="#C9D1D9">
+      curiosity (rolling release)
+    </text>
+
+    <text x="30" y="275" fill="#E5983B" font-weight="bold">shell</text>
+    <text x="130" y="275" fill="#C9D1D9">
+      abyss – hand-rolled, in C
+    </text>
+
+    <text x="30" y="300" fill="#E5983B" font-weight="bold">uptime</text>
+    <text x="130" y="300" fill="#C9D1D9">
+      shipping under constraints
+    </text>
+  </g>
+</svg>
