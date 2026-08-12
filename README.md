@@ -1,115 +1,105 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  "The unexamined code is not worth deploying."  — Socrates, probably -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+# Hi, I'm Priyanshu Kumar Singh
 
-<div align="center">
+**Backend / Systems Engineer**
 
-╔══════════════════════════════════════════════════════════╗  
-    "I think, therefore I compile."                        
-         — Me, at 3 AM, questioning my life choices        
-╚══════════════════════════════════════════════════════════╝  
+I build backend systems, execution infrastructure, and developer-facing applications with a focus on **correctness, isolation, performance, and operational reliability**.
 
+My work sits close to the system boundary: processes, containers, networking, asynchronous execution, authentication, databases, and Linux.
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Compiling+existential+crises...;Piping+stdout+to+nowhere;rm+-rf+%2Fdoubts;while+(!success)+{+try+again+;+};Listening+to+the+universe+in+4%2F4+time" alt="Typing SVG" />
-</p>
-
-</div>
+[Portfolio](https://priyanshu22.vercel.app) · [LinkedIn](https://linkedin.com/in/yansh08) · [Email](mailto:pksingh.backend@gmail.com)
 
 ---
 
-## 🪐 the existential README
+## What I Work With
 
-> *"We are all just bits in someone else's memory leak."*
+**Languages**
+Python · C · JavaScript
 
-I'm a developer who believes **code is poetry written for machines** — and music is poetry written for souls. I write C like it's 1972, deploy like it's 2030, and debug like I'm being personally attacked by the universe.
+**Backend & Distributed Systems**
+FastAPI · Node.js · PostgreSQL · Redis · Celery
 
-🎼 **Philosophy:** Every shell I build is a small rebellion against entropy.
-🔊 **Soundtrack:** Lo-fi beats to segfault to.
+**Systems & Infrastructure**
+Linux · Docker · Docker Compose · Azure · Nginx · Caddy
 
----
+**Networking & Security**
+HTTP/HTTPS · SSL/TLS · DNS · CORS · JWT · JWKS
 
-## 🛠 the tools of my suffering
-
-<kbd><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></kbd>
-<kbd><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></kbd>
-<kbd><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></kbd>
-<kbd><img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/></kbd>
-<kbd><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></kbd>
-<kbd><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></kbd>
-<kbd><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></kbd>
-<kbd><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></kbd>
-<kbd><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/></kbd>
-<kbd><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></kbd>
-<kbd><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/></kbd>
-<kbd><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></kbd>
-<kbd><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/></kbd>
+**Frontend**
+Next.js · React · TailwindCSS
 
 ---
 
-## 🏗 monuments to my insomnia
+## Selected Work
 
-### 🔥 [OopsEngine](https://github.com/yansh07/OopsEngine)
-> *A containerized code judge that runs 50+ submissions concurrently on a 1GB VM — because poverty is the mother of invention.*
+### Containerized Code Execution Platform
 
-`FastAPI` `Next.js` `Docker` `Redis` `Celery` `PostgreSQL` `Azure`
+**FastAPI · Next.js · Docker · Redis · Celery · PostgreSQL · Azure**
 
-- 🎯 p95 latency: **11ms** | p99: **14ms** | 81+ RPS sustained
-- 🔐 JWT/JWKS auth, sandboxed Docker execution, long-polling terminal UI
-- 🌐 [Live Demo](https://oopsengine.vercel.app)
+A sandboxed code execution platform designed around isolated workloads, asynchronous execution, and constrained infrastructure.
 
-### 🐚 [Abyss Shell](https://github.com/yansh07/abyss-shell)
-> *A Unix shell written in C. Because every programmer must, at least once, stare into the abyss — and fork() it.*
+* Deployed the execution backend on a **1 GB Azure Ubuntu VM**, using custom swap and Docker Compose to operate FastAPI, Redis, Celery, and PostgreSQL within tight memory limits.
+* Designed **container-level CPU and memory constraints** with Docker-based process isolation for submitted code.
+* Decoupled execution workloads from the FastAPI event loop using **Redis + Celery**, preserving API responsiveness under concurrent load.
+* Achieved **81+ RPS with 11 ms p95 latency across 51K+ requests** on the constrained VM.
+* Sustained **50+ concurrent sandboxed submissions** without OOM kills.
+* Configured Caddy as the reverse proxy with automated **Let's Encrypt TLS**, alongside Azure NSGs for HTTPS-only traffic.
+* Resolved cross-origin and mixed-content issues across a **Vercel frontend → Azure backend** deployment.
+* Validated access tokens against an external **JWKS endpoint** before accepting execution requests.
+* Built a long-polling Next.js client representing execution state transitions:
+  `QUEUED → RUNNING → SUCCESS / ERROR`
+* Used adaptive polling intervals to reduce unnecessary server load while maintaining responsive execution feedback.
 
-`C` `POSIX` `Linux Kernel API`
-
-- Pipes, redirection, multi-process IPC — zero leaks, zero segfaults
-- 500+ REPL iterations. The abyss stared back. It blinked first.
-
----
-
-
-</div>
+[Live Demo](https://oopsengine.vercel.app/) · [GitHub](https://github.com/yansh07/OopsEngine)
 
 ---
 
-## 🎵 the playlist that raised me
+### Abyss Shell
 
-<details>
-<summary><b>🎧 click to peek inside my headphones</b></summary>
-<br>
+**C · Linux Kernel API · POSIX**
 
-| Mood | Soundtrack |
-|------|-----------|
-| Debugging at 2 AM | 🌧️ *Rainy jazz, melancholic piano* |
-| Shipping features | ⚡ *Synthwave, drum & bass* |
-| Writing C | 🎻 *Classical — Bach, specifically* |
-| Reading docs | 🎧 *Lo-fi hip hop, obviously* |
-| Celebrating 0 bugs | 🎉 *Queen — Don't Stop Me Now* |
+A Unix shell implemented from the ground up in C, focusing on process lifecycle, IPC, file descriptors, and command execution.
 
-</details>
+* Implemented process creation and lifecycle management using `fork()`, `execvp()`, and `waitpid()`.
+* Built **multi-stage pipelines** with dynamic file-descriptor and IPC management across child processes.
+* Implemented I/O redirection using `dup2()` and `open()`, including both overwrite (`>`) and append (`>>`) semantics.
+* Designed a **two-phase tokenizer** to correctly handle nested pipe contexts where `strtok()` state collisions became problematic.
+* Manually tracked heap allocations and deallocations, maintaining **zero memory leaks and segmentation faults across 500+ REPL test iterations**.
+
+[GitHub](https://github.com/yansh07/abyss-shell)
 
 ---
 
-<div align="center">
+## Problem Solving
 
-     ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪
-"In the beginning was the Word.
- Then came the semicolon.
- And there was syntax."
-     ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪  
+**180+ LeetCode problems solved in Python**, including the complete **NeetCode 150**.
 
+Focus areas:
 
-<kbd><img src="https://img.shields.io/badge/LeetCode-180+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></kbd>
-<kbd><img src="https://img.shields.io/badge/NeetCode_150-✅_Completed-22BF00?style=for-the-badge"/></kbd>
-<kbd><img src="https://img.shields.io/badge/Status-Still_Compiling-00C853?style=for-the-badge"/></kbd>
+`Arrays` · `Hashing` · `Sliding Window` · `Trees` · `Graphs` · `Dynamic Programming` · `Binary Search` · `Heaps` · `Backtracking`
 
-<br><br>
+---
 
-*« The code compiles. The soul persists. The music plays on. »*
+## Engineering Principles
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=username&color=00C853&style=for-the-badge" />
-</p>
+I care about:
 
-</div>
+* **Isolation** — contain untrusted or expensive workloads at the process/container boundary.
+* **Concurrency** — move blocking and compute-heavy work away from latency-sensitive paths.
+* **Resource discipline** — design for explicit CPU, memory, and I/O constraints rather than assuming unlimited infrastructure.
+* **Systems understanding** — understand what happens beneath the framework, from file descriptors and processes to TLS and reverse proxies.
+* **Operational correctness** — deployment, networking, authentication, observability, and failure modes are part of the system.
+* **Measured performance** — benchmark first, optimize against actual bottlenecks.
+
+---
+
+## Currently
+
+Deepening my understanding of **distributed systems, operating systems, networking, and backend architecture** while building systems that are increasingly close to the metal.
+
+---
+
+### Contact
+
+If you're working on backend infrastructure, systems engineering, developer tools, or distributed systems, I'd be happy to connect.
+
+[LinkedIn](https://linkedin.com/in/yansh08) · [Email](mailto:pksingh.backend@gmail.com)
